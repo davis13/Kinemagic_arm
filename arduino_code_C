@@ -15,7 +15,7 @@
 #include <Servo.h>
  
 // Digital pin for servo motor
-int servo_pin = 7;
+int servo_pin = 9;
 // Analog pin for the muscle sensor
 int muscle_pin = A0;
  
